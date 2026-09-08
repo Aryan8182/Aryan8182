@@ -99,10 +99,6 @@ Here are key projects from my GitHub profile ([@Aryan8182](https://github.com/Ar
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan8182&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan8182&theme=tokyonight" alt="GitHub Streak" width="97%"/>
-</p>
-
 ---
 
 # 📫 Let's Connect!
