@@ -90,14 +90,6 @@ Here are key projects from my GitHub profile ([@Aryan8182](https://github.com/Ar
 | 🌾 **[Seasonal Agriculture Performance Analysis](https://github.com/Aryan8182/Seasonal_Agriculture_Performance_Analysis)** | In-depth seasonal farm data analysis (Kharif, Rabi, Zaid) featuring data cleaning, ANOVA testing, correlation analysis, and data-driven recommendations. | `Python` `Pandas` `Seaborn` `EDA` |
 | 💳 **[nexorapay](https://github.com/Aryan8182/nexorapay)** | Web development application exploring modern payment gateway integrations and digital transaction processing. | `JavaScript` `HTML/CSS` `Web` |
 
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan8182&show_icons=true&theme=tokyonight&count_private=true" alt="Aryan's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan8182&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-</p>
 
 ---
 
