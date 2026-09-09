@@ -87,7 +87,6 @@ Here are key projects from my GitHub profile ([@Aryan8182](https://github.com/Ar
 | :--- | :--- | :--- |
 | 🌱 **[GreenGuide-AI](https://github.com/Aryan8182/greenguide-ai)** | AI-driven sustainability and eco-friendly guidance platform leveraging data insights for environmental decision-making. | `Python` `AI` `Data Science` |
 | 📊 **[Vois-data-analyticas-project](https://github.com/Aryan8182/Vois-data-analyticas-project)** | Comprehensive data analytics project performing data wrangling, EDA, trend analysis, and business insight extraction. | `Python` `Jupyter` `Pandas` `Matplotlib` |
-| 🌾 **[Seasonal Agriculture Performance Analysis](https://github.com/Aryan8182/Seasonal_Agriculture_Performance_Analysis)** | In-depth seasonal farm data analysis (Kharif, Rabi, Zaid) featuring data cleaning, ANOVA testing, correlation analysis, and data-driven recommendations. | `Python` `Pandas` `Seaborn` `EDA` |
 | 💳 **[nexorapay](https://github.com/Aryan8182/nexorapay)** | Web development application exploring modern payment gateway integrations and digital transaction processing. | `JavaScript` `HTML/CSS` `Web` |
 
 
