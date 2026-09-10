@@ -85,10 +85,10 @@ Here are key projects from my GitHub profile ([@Aryan8182](https://github.com/Ar
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 💧 **[JalRakshak-AI](https://github.com/Aryan8182/Jalrakshak-AI-Powered-Smart-Water-Advisory-Leakage-Risk-Assistant-)** | AI-powered smart water advisory and leakage risk assessment assistant promoting sustainable water management. | `Python` `React/JSX` `AI` `HTML/CSS` |
-| 🌱 **[GreenGuide-AI](https://github.com/Aryan8182/greenguide-ai)** | AI-driven sustainability and eco-friendly guidance platform leveraging data insights for environmental decision-making. | `Python` `AI` `Data Science` |
-| 📊 **[Vois-data-analyticas-project](https://github.com/Aryan8182/Vois-data-analyticas-project)** | Comprehensive data analytics project performing data wrangling, EDA, trend analysis, and business insight extraction. | `Python` `Jupyter` `Pandas` `Matplotlib` |
-| 💳 **[nexorapay](https://github.com/Aryan8182/nexorapay)** | Web development application exploring modern payment gateway integrations and digital transaction processing. | `JavaScript` `HTML/CSS` `Web` |
+| 💧 **[JalRakshak-AI](https://github.com/Aryan8182/Jalrakshak-AI-Powered-Smart-Water-Advisory-Leakage-Risk-Assistant-)** ([Live Demo](https://aryan8182.github.io/Jalrakshak-AI-Powered-Smart-Water-Advisory-Leakage-Risk-Assistant-/)) | AI-powered smart water advisory and leakage risk assessment assistant promoting sustainable water management. | `Python` `React/JSX` `AI` `HTML/CSS` |
+| 🌱 **[GreenGuide-AI](https://github.com/Aryan8182/greenguide-ai)** ([Live Demo](https://aryan8182.github.io/greenguide-ai/)) | AI-driven sustainability and eco-friendly guidance platform leveraging data insights for environmental decision-making. | `Python` `AI` `Data Science` |
+| 📊 **[Vois-data-analyticas-project](https://github.com/Aryan8182/Vois-data-analyticas-project)** ([Live Demo](https://aryan8182.github.io/Vois-data-analyticas-project/)) | Comprehensive data analytics project performing data wrangling, EDA, trend analysis, and business insight extraction. | `Python` `Jupyter` `Pandas` `Matplotlib` |
+| 💳 **[nexorapay](https://github.com/Aryan8182/nexorapay)** ([Live Demo](https://aryan8182.github.io/nexorapay/)) | Web development application exploring modern payment gateway integrations and digital transaction processing. | `JavaScript` `HTML/CSS` `Web` |
 
 
 ---
