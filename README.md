@@ -86,14 +86,10 @@ Here are key projects from my GitHub profile ([@Aryan8182](https://github.com/Ar
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | 🔍 **[HireLens: AI Resume Analyzer](https://github.com/Aryan8182/Hirelens-ai-resume-analyzer)** | AI-powered ATS resume screening, skill gap analysis & job matching system using SBERT embeddings, NLP skill taxonomy & Streamlit UI. | `Python` `SBERT` `Streamlit` `NLP` `FastAPI` | 🚀 **[Click for Live Demo](https://aryan8182-hirelens-ai-resume-analyzer-app-p2fpgo.streamlit.app/)**<br>📽️ **[Presentation Deck (.pptx)](https://github.com/Aryan8182/Hirelens-ai-resume-analyzer/blob/main/HireLens_Presentation.pptx)** |
-
-
 | 💧 **[JalRakshak-AI](https://github.com/Aryan8182/Jalrakshak-AI-Powered-Smart-Water-Advisory-Leakage-Risk-Assistant-)** | AI-powered smart water advisory and leakage risk assessment assistant promoting sustainable water management. | `Python` `React/JSX` `AI` `HTML/CSS` | 🚀 **[Click for Live Demo](https://aryan8182.github.io/Jalrakshak-AI-Powered-Smart-Water-Advisory-Leakage-Risk-Assistant-/)** |
 | 🌱 **[GreenGuide-AI](https://github.com/Aryan8182/greenguide-ai)** | AI-driven sustainability and eco-friendly guidance platform leveraging data insights for environmental decision-making. | `Python` `AI` `Data Science` | 🚀 **[Click for Live Demo](https://aryan8182.github.io/greenguide-ai/)** |
 | 📊 **[Vois-data-analyticas-project](https://github.com/Aryan8182/Vois-data-analyticas-project)** | Comprehensive data analytics project performing data wrangling, EDA, trend analysis, and business insight extraction. | `Python` `Jupyter` `Pandas` `Matplotlib` | 🚀 **[Click for Live Demo](https://aryan8182.github.io/Vois-data-analyticas-project/)** |
 | 💳 **[nexorapay](https://github.com/Aryan8182/nexorapay)** | Web development application exploring modern payment gateway integrations and digital transaction processing. | `JavaScript` `HTML/CSS` `Web` | 🚀 **[Click for Live Demo](https://aryan8182.github.io/nexorapay/)** |
-
-
 
 ---
 
