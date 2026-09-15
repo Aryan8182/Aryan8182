@@ -83,9 +83,10 @@ I am an **Aspiring Machine Learning Engineer and Python Developer** based in Son
 
 Here are key projects from my GitHub profile ([@Aryan8182](https://github.com/Aryan8182)):
 
-| Project | Description | Tech Stack | Live Demo Link |
+| Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| 🔍 **[HireLens: AI Resume Analyzer](https://github.com/Aryan8182/Hirelens-ai-resume-analyzer)** | AI-powered ATS resume screening, skill gap analysis & job matching system using SBERT embeddings, NLP skill taxonomy & Streamlit UI. | `Python` `SBERT` `Streamlit` `NLP` `FastAPI` | 🚀 **[Click for Live Demo](https://aryan8182-hirelens-ai-resume-analyzer-app-p2fpgo.streamlit.app/)** |
+| 🔍 **[HireLens: AI Resume Analyzer](https://github.com/Aryan8182/Hirelens-ai-resume-analyzer)** | AI-powered ATS resume screening, skill gap analysis & job matching system using SBERT embeddings, NLP skill taxonomy & Streamlit UI. | `Python` `SBERT` `Streamlit` `NLP` `FastAPI` | 🚀 **[Click for Live Demo](https://aryan8182-hirelens-ai-resume-analyzer-app-p2fpgo.streamlit.app/)**<br>📽️ **[Presentation Deck (.pptx)](https://github.com/Aryan8182/Hirelens-ai-resume-analyzer/blob/main/HireLens_Presentation.pptx)** |
+
 
 | 💧 **[JalRakshak-AI](https://github.com/Aryan8182/Jalrakshak-AI-Powered-Smart-Water-Advisory-Leakage-Risk-Assistant-)** | AI-powered smart water advisory and leakage risk assessment assistant promoting sustainable water management. | `Python` `React/JSX` `AI` `HTML/CSS` | 🚀 **[Click for Live Demo](https://aryan8182.github.io/Jalrakshak-AI-Powered-Smart-Water-Advisory-Leakage-Risk-Assistant-/)** |
 | 🌱 **[GreenGuide-AI](https://github.com/Aryan8182/greenguide-ai)** | AI-driven sustainability and eco-friendly guidance platform leveraging data insights for environmental decision-making. | `Python` `AI` `Data Science` | 🚀 **[Click for Live Demo](https://aryan8182.github.io/greenguide-ai/)** |
